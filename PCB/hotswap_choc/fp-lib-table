@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name hotswap_choc)(type KiCad)(uri C:/Users/cipul/Desktop/Projects/Boards/helix/PCB/hotswap_choc)(options "")(descr ""))
+)

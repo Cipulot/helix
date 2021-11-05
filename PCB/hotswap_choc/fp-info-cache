@@ -1,4 +1,4 @@
-19811627129531317
+19814899258585472
 Alps_Only
 ALPS-1.5U
 
@@ -55377,6 +55377,13 @@ MX,cherry,gateron,kailh,pg1511,socket
 8
 2
 Keyswitches
+Kailh_socket_MX_optional_reversible_FLIP
+MX-style keyswitch with support for reversible optional Kailh socket
+MX,cherry,gateron,kailh,pg1511,socket
+0
+4
+2
+Keyswitches
 Kailh_socket_MX_optional_reversible_platemount
 MX-style keyswitch with support for reversible optional Kailh socket
 MX,cherry,gateron,kailh,pg1511,socket
@@ -76683,6 +76690,13 @@ SOD-123
 SOD-123
 0
 4
+2
+Random-keyboard-parts
+Diode_SMD_THT_DUAL
+
+
+0
+6
 2
 Random-keyboard-parts
 Generic-Mounthole
